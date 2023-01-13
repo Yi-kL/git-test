@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("冲突合并");
         System.out.println("master-冲突合并");
         System.out.println("push-test");
+        System.out.println("pull-test");
     }
 }
